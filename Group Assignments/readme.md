@@ -1,4 +1,4 @@
-#Project Proposal
+# Project Proposal
 
 **Title:** Exploring international health indicators and social investment at the country level. 
 
