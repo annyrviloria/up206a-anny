@@ -1,0 +1,143 @@
+--------------------------------------------------------------------------------
+Codebook for Social Explorer report ID: R12659798
+--------------------------------------------------------------------------------
+
+Contents
+    - Table Summary
+    - Data Dictionary
+    - Citation and Use
+
+
+--------------------------------------------------------------------------------
+Table Summary
+--------------------------------------------------------------------------------
+ 
+Survey:           World Development Indicators 2015
+Dataset:          Social Explorer Tables
+Tables:
+
+      1. Total Population
+         Universe:  Universe:
+         Name:      T1
+         Variables:
+            T001_001:   Total Population
+
+
+      2. Sex
+         Universe:  Universe:
+         Name:      T4
+         Variables:
+            T150_001:   Total Population:
+            T150_003:      Male
+            T150_002:      Female
+
+
+      3. Age
+         Universe:  Universe:
+         Name:      T5
+         Variables:
+            T151_001:   Total Population:
+            T151_002:      Under 14 Years
+            T151_003:      15 to 64 Years
+            T151_004:      65 Years and Over
+
+
+      4. Urban and Rural Population
+         Universe:  Universe:
+         Name:      T6
+         Variables:
+            T004_001:   Total Population:
+            T004_002:      Urban Population
+            T004_003:      Rural Population
+
+
+      5. Child Mortality
+         Universe:  Universe:
+         Name:      T30
+         Variables:
+            T057_001:   Neonatal
+            T057_002:   Infant
+            T057_003:   Under 5 Years-Old
+
+
+      6. Child Mortality Rate (per 1,000 Live Births)
+         Universe:  Universe:
+         Name:      NV9
+         Variables:
+            T015_001:   Neonatal
+            T015_002:   Infant
+            T015_009:   Under 5 Years Old
+
+
+      7. Maternal Mortality
+         Universe:  Universe:
+         Name:      T31
+         Variables:
+            T211_001:   Maternal Deaths
+            T211_002:   Maternal Mortality Ratio (Modeled Estimate, per 100,000 Live Births)
+
+
+
+
+
+ 
+ 
+ 
+--------------------------------------------------------------------------------
+Data Dictionary
+--------------------------------------------------------------------------------
+ 
+Variables 
+      FIPS:           FIPS
+      NAME:           Name of Area
+      QNAME:          Qualifying Name
+      INCCOUNTRY:     Country by Income
+      T001_001:       Total Population
+      T150_001:       Total Population
+      T150_003:       Total Population: Male
+      T150_002:       Total Population: Female
+      PCT_T150_003:   % Total Population: Male
+      PCT_T150_002:   % Total Population: Female
+      T151_001:       Total Population
+      T151_002:       Total Population: Under 14 Years
+      T151_003:       Total Population: 15 to 64 Years
+      T151_004:       Total Population: 65 Years and Over
+      PCT_T151_002:   % Total Population: Under 14 Years
+      PCT_T151_003:   % Total Population: 15 to 64 Years
+      PCT_T151_004:   % Total Population: 65 Years and Over
+      T004_001:       Total Population
+      T004_002:       Total Population: Urban Population
+      T004_003:       Total Population: Rural Population
+      PCT_T004_002:   % Total Population: Urban Population
+      PCT_T004_003:   % Total Population: Rural Population
+      T057_001:       Neonatal Deaths
+      T057_002:       Infant Deaths
+      T057_003:       Under 5 Years-Old Deaths
+      T015_001:       Neonatal Mortality Rate (per 1,000 Live Births)
+      T015_002:       Infant Mortality Rate (per 1,000 Live Births)
+      T015_009:       Under 5 Years Old Mortality Rate (per 1,000 Live Births)
+      T211_001:       Maternal Deaths
+      T211_002:       Maternal Mortality Ratio (Modeled Estimate, per 100,000 Live Births)
+
+
+
+
+--------------------------------------------------------------------------------
+Citation and Use of Data
+--------------------------------------------------------------------------------
+ 
+All persons are granted a limited license to use this documentation and the
+accompanying data, subject to the following conditions:
+
+* Publications and research reports employing the data
+  must cite it appropriately. The citation should include the following:
+
+	  www.socialexplorer.com
+	  New York City, NY: Social Explorer 2020
+
+
+* Citations should also include the URL for this report:
+
+    http://www.socialexplorer.com/pub/reportdata/HtmlResults.aspx?reportid=R12659798
+
+If you have any questions contact info@socialexplorer.com
